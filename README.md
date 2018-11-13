@@ -27,5 +27,7 @@ Testing the rest-api with postman
 
 ![alt text](https://github.com/muluhai/Rest_Api/blob/master/MeetingSchema.API/Results_images/TestingUserController.png)
 
-# OBS!
-Use the Nuget Package to include the different packages you needed to this project.
+3. Swagger
+
+![alt text](https://github.com/muluhai/Rest_Api/blob/master/MeetingSchema.API/Results_images/swagger.png)
+
